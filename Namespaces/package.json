@@ -1,0 +1,16 @@
+{
+  "name": "003",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server",
+    "compile": "tsc app.ts --outFile app.js"
+  },
+  "keywords": [],
+  "author": "nur-sh",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
